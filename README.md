@@ -13,6 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas - IFPI
         <img src="https://img.shields.io/badge/dart-02589c?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
         <img src="https://img.shields.io/badge/flutter-2eb2ee?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
         <img src="https://img.shields.io/badge/react-06f3af?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+        <img src="https://img.shields.io/badge/figma-2F4F4F?style=for-the-badge&logo=figma&logoColor=green" alt="Figma" />
 </div>
 
 <br>
