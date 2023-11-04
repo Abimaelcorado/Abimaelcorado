@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=76819c&height=180&section=header&text=Abimael%20Corado&fontSize=80)
 
-Estudante de Análise e Desenvolvimento de Sistemas - IFPI
+Estudante de Análise e Desenvolvimento de Sistemas - IFPI 6/6
 
 <div>  
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
